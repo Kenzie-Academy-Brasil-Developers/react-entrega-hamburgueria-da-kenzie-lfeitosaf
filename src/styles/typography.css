@@ -1,0 +1,51 @@
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+span,
+li {
+  font-family: "Inter", sans-serif;
+}
+
+.Heading1 {
+  font-size: 26px;
+  font-weight: 700;
+}
+
+.Heading2 {
+  font-size: 22px;
+  font-weight: 700;
+}
+
+.Heading3 {
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.Heading4 {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.Headline {
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.Body {
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.Body-600 {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.Caption {
+  font-size: 12px;
+  font-weight: 400;
+}
