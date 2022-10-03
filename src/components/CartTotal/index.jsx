@@ -23,7 +23,9 @@ const CartTotal = ({ cartItem, setCartItem }) => {
     </CartTotalDiv>
   );
 
-  function clearCart() {}
+  function clearCart() {
+    setCartItem([]);
+  }
 };
 
 export default CartTotal;

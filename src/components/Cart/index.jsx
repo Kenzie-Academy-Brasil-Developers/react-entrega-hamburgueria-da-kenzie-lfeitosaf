@@ -26,7 +26,7 @@ const Cart = ({ cartItem, setCartItem }) => {
             />
           ))}
         </CartList>
-        <CartTotal cartItem={cartItem} />
+        <CartTotal cartItem={cartItem} setCartItem={setCartItem} />
       </CartBody>
     </CartDiv>
   );
