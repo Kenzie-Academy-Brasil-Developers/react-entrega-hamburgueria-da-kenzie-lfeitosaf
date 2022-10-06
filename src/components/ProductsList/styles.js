@@ -8,7 +8,7 @@ export const List = styled.ul`
   width: 100%;
   list-style: none;
   min-height: 370px;
-  @media (min-width: 768px) {
+  @media (min-width: 900px) {
     overflow: none;
     flex-wrap: wrap;
     width: 68%;

@@ -18,7 +18,7 @@ export const Nav = styled.nav`
   margin: 0px 16px;
   gap: 15px;
 
-  @media (min-width: 768px) {
+  @media (min-width: 900px) {
     width: 100%;
     flex-direction: row;
     justify-content: space-between;
@@ -28,7 +28,7 @@ export const Nav = styled.nav`
 export const Logo = styled.img`
   width: 150px;
   height: 22.85px;
-  @media (min-width: 768px) {
+  @media (min-width: 900px) {
     margin-left: 115px;
   }
 `;
@@ -45,7 +45,7 @@ export const Form = styled.form`
     border: 2px solid #333333;
   }
   margin: 0px 16px;
-  @media (min-width: 768px) {
+  @media (min-width: 900px) {
     width: 365px;
     margin-right: 115px;
   }
