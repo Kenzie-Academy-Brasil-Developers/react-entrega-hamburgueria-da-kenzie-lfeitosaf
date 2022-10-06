@@ -5,7 +5,7 @@ export default styled.div`
   align-items: center;
   flex-direction: column;
   margin-top: 16px;
-  @media (min-width: 900px) {
+  @media (min-width: 1280px) {
     justify-content: space-between;
     flex-direction: row;
     margin-top: 41px;

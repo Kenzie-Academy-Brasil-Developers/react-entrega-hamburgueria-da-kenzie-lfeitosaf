@@ -8,7 +8,7 @@ export const CartEmpty = styled.div`
   width: 100%;
   height: 223px;
   padding: 50px 10px;
-  @media (min-width: 900px) {
+  @media (min-width: 1280px) {
     margin-bottom: auto;
     width: 365px;
   }

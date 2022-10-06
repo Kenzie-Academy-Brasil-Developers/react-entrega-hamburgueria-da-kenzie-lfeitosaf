@@ -7,7 +7,7 @@ export const CartDiv = styled.div`
   align-items: center;
   width: 100%;
   padding: 50px 10px;
-  @media (min-width: 768px) {
+  @media (min-width: 1280px) {
     width: 365px;
     margin-bottom: auto;
     height: 530px;
